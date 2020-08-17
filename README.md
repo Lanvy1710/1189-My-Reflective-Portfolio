@@ -7,12 +7,12 @@ After week 1 lesson, one of the new points is about boundaries system which are 
 ## What insights have I gained?
 I deeply achieved about emergent behaviour which was about comprehending the system with many elements and structure. Furthermore, I have recognized human body as the highest complex system which our body can transfer energy, metabolism, behaviour, functional as well as structural relationships between each other such as our brain has nerves connect to each other to control other part of the body. 
 ## What are (my/the) perceived strengths and weaknesses that I have observed?
-* Perceived strengths
+*Perceived strengths*
 -	Understanding well about the description of systems.
 -	Can fix the problem based on feedback.
 -	Opportunities to develop thinking.
 
-* Perceived weaknesses
+*Perceived weaknesses*
 -	Lack of information.
 -	Limited experience about system.
 ## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
