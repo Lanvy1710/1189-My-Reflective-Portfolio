@@ -1,12 +1,12 @@
 # 41189-My-Reflective-Portfolio
 ## Week 1
-## What have I learnt this week?
+### What have I learnt this week?
 Introduction to Human-centred Complex System’s lecture this week was presented and described about the definition, key attributes of a system and complex systems. Firstly, to start with the lesson, the discussion about the key attributes which is about elements of each system, the connection of elements with systems or function. Furthermore, we had a small conversation about system boundaries which came up with many ideas and thoughts from students and professors. Secondly, the professor explained about the different ways system are characterised such as open system, closed system and isolated system. The value of each system which were conversed together about features and how it works by students. Moreover, describing about some common characteristics of systems like structure, behaviour, functional, a system is a whole that can not be separated. Thirdly, I carefully considered about the description of what makes a system complex. The professor explicated the different between complex and complicated, and presented complex systems exposing emergence, self-organization. Finally, knowing well about the different level of complexity, complex adaptive systems and some examples of social systems.       
-## What do I 'now know' that I did not before?
+### What do I 'now know' that I did not before?
 After week 1 lesson, one of the new points is about boundaries system which are the isolated system and how it works. Before, I just knew about two characterised which are the open and closed system. Isolated system description was coming up with an interested point that it does not allow to transfer of neither mass or power between it or surroundings. Moreover, I understand carefully about the complex system and how it evolves into a different level. 
-## What insights have I gained?
+### What insights have I gained?
 I deeply achieved about emergent behaviour which was about comprehending the system with many elements and structure. Furthermore, I have recognized human body as the highest complex system which our body can transfer energy, metabolism, behaviour, functional as well as structural relationships between each other such as our brain has nerves connect to each other to control other part of the body. 
-## What are (my/the) perceived strengths and weaknesses that I have observed?
+### What are (my/the) perceived strengths and weaknesses that I have observed?
 *Perceived strengths*
 -	Understanding well about the description of systems.
 -	Can fix the problem based on feedback.
@@ -15,11 +15,11 @@ I deeply achieved about emergent behaviour which was about comprehending the sys
 *Perceived weaknesses*
 -	Lack of information.
 -	Limited experience about system.
-## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 Upon reflection, it was observed that one of the situations that I have met which was the presentation and we needed to separate into different role for each member and to set a goal for us to acchieve the highest score. One of the members did not come to discuss about the assessment and roles. So, my team and I divided into each session. It was really hard for us to work on since we lacked one member. To face with this challenge, we defined and discussed together about our position and used brainstorming to analyse all the information.  
-## What would I do better next time and with what anticipated results?
+### What would I do better next time and with what anticipated results?
 With a great deal of knowledge already gained, I would consider working based on the social system which would be more connective and easier to outline position, goal, objectives and norms to work in a team. I believe the teamwork would be effective and achieve higher score since we need to be organised all parts and sentiments of each members.  
-## What theory proved to be useful and why? What have I learnt from this?
+### What theory proved to be useful and why? What have I learnt from this?
 I considered the social system will be useful to apply in the real life since I have gained a huge knowledge and some examples to use it to face with unexpected situations. For example, social system would be covered overall unity for people when they discuss their ideas and specific theoretical points. During the lesson, the professor has shown and discussed about the social and technical system with a basic example which help me learn about how can it work organised for daily life. 
 ## Week 2.
 ### What have I learnt this week?
