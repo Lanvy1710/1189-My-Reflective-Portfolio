@@ -46,3 +46,28 @@ There was a situation at one of my group assessments which was calculating to de
 Before doing my assessments, I would try to visualize what need to do and analyze multiple information in a model. So that I can easy to discuss and explain in a conversation or presentation. It would help me to save time, deeply understand and gain knowledge. Studying by using model would support us to be more creative and attract other people in our own work.  
 ### What theory proved to be useful and why? What have I learnt from this?
 My position as a student deeply studied about the science of many models, I believe that “Diversity Prediction Theorem” can be helpful if we apply to use it in real life. For example, diversity prediction theorem is a draft of programming task which can quality control and build the opportunity of coding, learning, and increasing thinking ability. I have learnt from a basic example and it was really interested since it showed equation of the failure of the crowd and how it worked.
+
+## Week 3
+### What have I learnt this week?
+Introduction to Human-centred Complex System’s lecture this week was presented and covered about modelling how people behave, decide, add value, and power. At the beginning of the lesson, the professor lectured on the description of rational, behavioural (irrational) and rule-based model which can help human to make better decisions in their situation. Then, a small conversation between the professor and students deliberate about the use and benefits of each model which can support people in life-changing decisions. Next, discussed the multi creation problem which associates with the judgment from characteristic and comparison. decision trees model was valued in facilities way to apply it in real life. During the presentation, the professor came up with many examples including the calculation of each predictive decision in the decision trees. Thirdly, we gained more knowledge about the signalling model and knowing discrete symbol recognition of the replica to apply an alternative explanation. Finally, studying the definition of models of value and power including some interesting examples to show the operation of the model when it was used in real life and discuss how people work to solve in a group.          
+### What do I 'now know' that I did not before?
+To reflect upon the learning in this week, I comprehend more deeply about the model of rational decision making which could be perfect for people to change their decision. This model is based on realistic and represents people’s behaviours in any situation. In addition, the rationality model usually goes with the heuristic factor and it brings the opportunity to maximize the outcome for the business when they apply it in their occupation. For example, people need to identify their target before they want to buy something and value each solution. Then, we choose the best decision and implement which will bring the best result for us.            
+### What insights have I gained?
+I deeply understood the definition of each model and how we choose the best possible option. We can use these models in our daily life which affect human’s behaviour, nerves, action, and the creation of implementation details individually without biases of each model. Moreover, knowing more about the rules of thumb which based on practical experience more than theoretical to complete and approach a certain goal for people. During the lesson, I have learnt many definitions about the perspective of innovation when people worked in a group.     
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Perceived strengths:*
+- Extremely focus on the implementation details of models.
+- Understand the structure of each model.
+- Ability to value the probability of models in solving a problem.
+
+*Perceived weaknesses:*
+- Limited using models when making decisions.
+- Not really effective to solve some situation.
+- Lack of diversity.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+The situation that I have encountered that I learned to take a motorcycle driver’s license test. It was hard for me since I had to remember how to obey the basic traffic rule to drive a vehicle. The course includes numerous signals, directions, and theorists. To achieve my license, I tried to make a plan, manage time to work hard by reading the theory of traffic rule and doing many trial tests on the internet.
+### What would I do better next time and with what anticipated results?
+After the lesson in week 3, I have learnt about the signalling model which is interested to apply in studying. I will create a model that combines the theory and signs so I can decrease timing and acquire knowledge quicker. Additionally, using the signalling model will make me feel more interested in learning and encourage me to finish my goal most ultimately since it uses to determine information in an effective way.
+### What theory proved to be useful and why? What have I learnt from this?
+These models are always used directly to support people in their real life. I believe the decision trees can be the most useful since it has an impact on the final result and minimizes hazard with their decision. Because I have used this model before when I studied the online course about business management skills. Then, I created decision trees and separate into four options which led to the best solution in business occupation. Decision trees model includes the calculation of the probability of each choice and shows the percentage of success based on the logistic for our work.
+
