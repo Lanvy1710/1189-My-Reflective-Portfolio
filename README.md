@@ -87,10 +87,31 @@ A significant insight I have learned about how people can keep track of the situ
 - Got confusion while learning about the dynamic model with some examples.
 - Procrastination while doing the model.
 - Have no experience with the NetLogo and Python.
-## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 I was using my notebook to take notes and write the necessary detail about the lesson, and I was confused with Python since I have no past experience working on it. I was researching more information about the Python language with some basic programming to understand how it works and knows about the code with some different examples that have been provided during the course.
-## What would I do better next time and with what anticipated results?
+### What would I do better next time and with what anticipated results?
 To reflect upon the learning process this week, I would consider learning to approach Python and use it as the most successful during this course. Understanding the necessary code through to Python will help me retain more knowledge to practice better and work accomplishment in this semester.
-## What theory proved to be useful and why? What have I learnt from this?
+### What theory proved to be useful and why? What have I learnt from this?
 I think the agent-based model was one of the most interested models and useful for us to apply it in reality. As I mentioned, it helped identify and demonstrate the COVID-19 for people to follow and receive the pandemic situation. Moreover, The agent-based model works on one to one and relates to the realities situation and keeps track of the agent's changes and development, target and adaptive processes.
+## Week 5
+### What have I learnt this week?
+Introduction to Human-centred Complex System's lecture this week was presented and explained about aggregating decisions and behaviours and distribution levels such as standard and long-tail type. Focusing on how the probability distributions can help create our world and the main characteristics of agents contributing to systems. Then, understanding the standard distribution description, and it depends on the mean and standard deviation to measure the mode. Hence, I have known that the logic of models based on its hypothesis, distribution, possibility, and personal development level, which are attractive to gain and apply in reality. Finally, I enormously gain about the long-tailed distribution that occurs because of feedbacks and interdependencies, and it links with power laws.
+### What do I 'now know' that I did not before?
+In this week five lecture, much interesting content has been provided, and self-organised criticality is a new theorem I have learnt this week. Some basic examples were given, such as sand grains' addition to present the process that builds each characteristic's independencies until the systems achieved the critical state and breaks the balance in the system. Self-organised criticality is based on people's behaviour, which combines with other factors to create model structures. The forest fire is a pictogram example to clearly understand the critical action, behaviours of people and this theory through the professor's teaching.
+### What insights have I gained?
+The theory that overwhelmed me the most was the content of power laws that have come from the TED Talk of Geoff West regarding the existence of the cities and corporations. Maintaining these two factors' lifetimes requires the creation, motivation, and endless modification leading to the effect of its growth. Through this video, I have learnt that cities always grow in numerous ways across many stages leading to many negative consequences similar to positive sides. Moreover, a lack of abundance problems and attraction of talent leading to innovation has always prevented companies' development. Besides, companies are usually gathered for a certain amount of time to develop in a definite direction and quickly lose people's interest. Geoff explained the significant point about how cities can long-term survival since it depends on continually evolving people and creating new ideas. Consequently, I would be able to prepare and gain more experience in various jobs instead of stuck in one position to contribute to the change in cities' lifetimes.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Perceived strengths*
+- Identify and determine models while discussing for group assessment and find an appropriate topic.
+- Understanding well about theorems provided in the lesson and think further on other examples to apply in reality.
+- Receiving some feedbacks while having a conversation with my team to calculate the probability of success on the selected topic.  
 
+*Perceived weaknesses*
+- Lack of experience with some models since I have not learnt about that before.
+- Got some misunderstandings about the application of the six sigma thinking model.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+My team and I had a conversation about separating works for each member to finish our group assessment. Our discussion was excellent since everyone focused on giving their opinions and figuring out how the disrepair systems were based on researching the information. It is a bit difficult for me since I have no past experience in political models and work on Python. However, my team and I are working hard and study the Python language for this group assessment to gain high overall marks.
+### What would I do better next time and with what anticipated results?
+After our group discussion, we have mentioned some factors and situations for the main topic as well as talked about Jupyter. Although we do not have many experiences of using Jupyter lab, we are attempting to understand the primary coding language. We need to focus on the issues that revolve around our topic and how we can solve it. Moreover, I will try to accomplish faster in our group work and also boldly express my ideas while deliberating to gain higher quality in the next meeting.
+### What theory proved to be useful and why? What have I learnt from this?
+To reflect upon the learning process this week workshop, I have observed that the mighty central limit theorem will be useful to apply in reality. I can make numerous options which concern to each other and calculate selections made through the probability distribution. An example I have been thinking of this theorem is using in measuring numbers of customers to will not be interested in some of my products for my business plan. Anticipating the situation as well as determining which parts of my manufactured will make the income decrease.   
