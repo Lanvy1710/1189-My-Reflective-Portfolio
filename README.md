@@ -181,3 +181,20 @@ This week is quite busy with our team since the pre-submission for our group ass
 Upon reflecting on our group process this week, I realized the most severe issue we were wasting numerous times. Hence, I consider that we need to manage time better for remain sections for our final submission. We already started to work on our sections and created a small request for the deadline to receive feedback from our members. Moreover, we have also made some team chat announcements to remind the deadline and started the coding on the Jupyter notebook.
 ### What theory proved to be useful and why? What have I learnt from this?
 The theory that I consider being the most useful to apply from this week's lecture was the Colonel Blotto game. I had mentioned before that I already used it while playing chess with my university friend, which helped me increase my winning chance. Furthermore, I also plan to apply this theory to allocate time and manage all other stuff to gain a better advantage to accomplish my target. For example, I can manage my study time, do the exercises, or play new intellectual games by following the allocation that I have made.
+## Week 9
+### What have I learnt this week?
+Introduction to Human-centred Complex System's lecture this week did not show any content with the workshop like what we have done in previous weeks. The main part that we focused on this week was discussing our group pre-submission on week 8. We also had time to discuss and understand what we have done for the assessment criteria. Furthermore, my team and I have completed the feedback and peer reviews for other groups and received our issue notes to proofread and develop better in the data for our group process.
+### What insights have I gained?
+A significant insight while reading about the peer feedback from other groups for our group pre-submission in week 8. After talking with my group during the Zoom section, we had planned to focus on the next part and talk about the Jupyter coding. Moreover, we received feedback that brings complementary views and especially what we need to proofread on it. For example, we have to make our diagrams mentioned in the feedback to make it more transparent or find a better quality.  
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Perceived strengths:*
+- Understanding the process of our group work and catch up on what we need to work.
+- Quickly follow the feedback and solve our issues.
+
+*Perceived weaknesses:*
+- Misunderstand while following to research about the Python language and some tasks for contributing to the program.
+- Got confused for the first time with the feedback via the issue notes on the Jupyter.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+After this week's discussion, we have finished separating and discussing what we need to focus on the final submission's remaining contents.  We got some problems during this week while providing feedback for group 2 since we misunderstood the issue notes for the first time. Unfortunately, I did not see the Canvas notification about the feedback earlier and until my team member messaged in team MS to work on that. Moreover, I was confused with the issue note then our team leader provided the instructions and the link that leads to set up the issue tab where we did the feedback in Github. Before the end of the deadline, our team extremely finished the feedback as required and knew what we need to improve for our part.
+### What would I do better next time and with what anticipated results?
+For the remaining weeks, I need to check the Canvas notification recently to catch up on everything we need to finish. I also need to discuss more with my team when I got to struggle with my part to figure out my issues faster. We also read all the peer reviews from other groups to say about positive stuff we have done and complete it with higher quality based on the feedback. Hence, having more conversations within the group means reducing the risks while working on our topic and gain a better result for the whole process.
